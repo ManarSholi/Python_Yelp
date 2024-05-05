@@ -1,0 +1,7 @@
+1. pipenv install requests
+2. choose the python version that created for this app
+3. pipenv install pylint --dev
+4. Go to Yelp documentation, open Business Endpoints, then Business Search
+5. copy the URL
+6. pipenv install autopep8 --dev
+7. 
